@@ -20,10 +20,6 @@
 - 🌐 **Cross-Platform** — works on Linux, macOS, and Termux
 - 🎯 **Indian Number Support** — optimized for Indian phone numbers
 
-## 📸 Screenshot
-
-![Phone-Info Screenshot](https://via.placeholder.com/800x400/000000/00FF00?text=Phone-Info+in+Action)
-
 ## 🚀 Installation
 
 ### Prerequisites
